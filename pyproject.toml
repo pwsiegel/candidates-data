@@ -1,0 +1,15 @@
+[project]
+name = "chess"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "jupyterlab>=4.5.6",
+    "matplotlib>=3.10.8",
+    "nbclient>=0.10.4",
+    "pandas>=3.0.2",
+    "plotly>=6.7.0",
+    "python-chess>=1.2.0",
+    "requests>=2.33.1",
+]
